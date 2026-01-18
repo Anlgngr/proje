@@ -6,12 +6,6 @@ import java.util.Scanner;
 public class App {
 
 	public static void main(String[] args) {
-		// Uygulama: GCD(Greatest Common Divisor), LCM(Least Upper Multiple)
-		// and Relatively prime(Aralarında asal)
-		// Ekrandan iki sayı alınız
-		// a) GCD
-		// b) LCM (hint: a.b/gcd(a,b) = lcm(a,b))
-		// c) Relatively prime
 
 		Scanner s = new Scanner(System.in);
 
